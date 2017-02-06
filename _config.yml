@@ -29,10 +29,10 @@ canonical: true
 # When running the site in a subdirectory (e.g. domain.tld/blog), remove the leading slash (/archives -> archives)
 menu:
   home: /
-  categories: /categories/index.html
-  archives: /archives/index.html
+  categories: /categories
+  archives: /archives
   #tags: /tags
-  about: /about/index.html
+  about: /about
   #commonweal: /404.html
 
 
@@ -393,3 +393,11 @@ images: images
 
 # Theme version
 version: 5.0.1
+
+# Donate 文章末尾显示打赏按钮
+reward_comment: 
+wechatpay: /images/wechat-reward-image.jpg
+alipay: /images/alipay-reward-image.jpg
+
+# 站点建立时间
+since: 2016
