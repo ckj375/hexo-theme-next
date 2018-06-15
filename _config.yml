@@ -395,9 +395,9 @@ images: images
 version: 5.0.1
 
 # Donate 文章末尾显示打赏按钮
-reward_comment: 
-wechatpay: /images/wechat-reward-image.jpg
-alipay: /images/alipay-reward-image.jpg
+#reward_comment: 
+#wechatpay: /images/wechat-reward-image.jpg
+#alipay: /images/alipay-reward-image.jpg
 
 # 站点建立时间
 since: 2016
